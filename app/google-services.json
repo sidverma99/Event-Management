@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "944415132063",
+    "firebase_url": "https://zavaso-4dbe1.firebaseio.com",
+    "project_id": "zavaso-4dbe1",
+    "storage_bucket": "zavaso-4dbe1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944415132063:android:6e18a6f4d1452e2492d5aa",
+        "android_client_info": {
+          "package_name": "com.example.zavaso"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944415132063-bg87d022vuphcls933jev18dfts7jrnm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk3f0Pv_7GNFeslfee-YZpNo2dl1wzuIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944415132063-bg87d022vuphcls933jev18dfts7jrnm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
